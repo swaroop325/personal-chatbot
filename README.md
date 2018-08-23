@@ -1,2 +1,7 @@
-# personal-chatbot
-to determine the user sentiments and pacify them accordingly to the reply they give 
+SecurityBot
+===========
+http://securitybot.mrrrgn.com
+
+
+An HTML5 + JavaScript + Dropbox API based motion detection security system.
+
