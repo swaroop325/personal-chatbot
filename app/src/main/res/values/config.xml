@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Watson Conversation Service Credentials --> 
+    <string name="workspace_id">5bf7e8e0-a465-4224-9fde-7cf7c9a06494 </string> 
+    <string name="conversation_username">9f4ec2bd-2cbf-4c31-8042-87efee482e36</string> 
+    <string name="conversation_password">imqIuMWFKA38</string>  
+
+    <!--Watson Speech-To-Text Service Credentials--> 
+    <string name="STT_username">33cc459b-02bf-49a6-98b0-93dae4ab13cb</string> 
+    <string name="STT_password">w2FCqyPJHJTu</string>  
+
+    <!--Watson Text-To-Speech Service Credentials--> 
+    <string name="TTS_username"></string>  
+    <string name="TTS_password"></string>
+
+    <!--IBM Cloud Mobile Analytics--> 
+    <string name="mobileanalytics_apikey">155ca8a0-708c-4eb2-8d85-cbc9a92d09b4</string>
+</resources>
